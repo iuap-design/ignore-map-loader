@@ -1,0 +1,26 @@
+{
+  "name": "ignore-map-loader",
+  "version": "0.0.1",
+  "description": "ignore. map files in webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/ignore-map-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "ignore",
+    "map",
+    "yonyou"
+  ],
+  "author": "Kvkens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iuap-design/ignore-map-loader/issues"
+  },
+  "homepage": "https://github.com/iuap-design/ignore-map-loader#readme"
+}
